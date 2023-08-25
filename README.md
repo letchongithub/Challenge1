@@ -1,1 +1,1 @@
-# Challenge1
+# The html file is found in index.html. The css file is found in assets then css then style.css.
